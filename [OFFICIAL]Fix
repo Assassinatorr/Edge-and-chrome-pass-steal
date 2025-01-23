@@ -1,7 +1,8 @@
 # EDUCATIONAL PURPOSES ONLY!
 # Credit to https://github.com/USSIndustry/Chrome-Password-Logger [original]
 # This is a python file [i used 3.12]
-
+# I AM NOT RESPONSIBLE FOR THE DAMAGES CAUSED
+# do not blame me, readme file is there for how to use
 
 import os
 import json
